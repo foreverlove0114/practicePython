@@ -36,5 +36,3 @@ while attempts > 0:
 
 if attempts == 0 and '_' in guessedWord:
     print('\nYou\'ve run out of attempts! The word was: ' + word)
-
-#修改内容
