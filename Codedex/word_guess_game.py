@@ -41,3 +41,4 @@ if attempts == 0 and '_' in guessedWord:
 # print 123
 
 # 测试这个设备不知道其他设备有更新
+# calculator feature
