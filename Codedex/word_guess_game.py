@@ -38,3 +38,4 @@ if attempts == 0 and '_' in guessedWord:
     print('\nYou\'ve run out of attempts! The word was: ' + word)
 
 #这个是test2新开发的功能
+#这个是test1新开发的功能
