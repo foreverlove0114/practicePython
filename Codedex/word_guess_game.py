@@ -37,8 +37,4 @@ while attempts > 0:
 if attempts == 0 and '_' in guessedWord:
     print('\nYou\'ve run out of attempts! The word was: ' + word)
 
-#这是一个新改动吗？
-# print 1234
-
-# 测试这个设备不知道其他设备有更新
-# calculator feature
+#这个是test2新开发的功能
